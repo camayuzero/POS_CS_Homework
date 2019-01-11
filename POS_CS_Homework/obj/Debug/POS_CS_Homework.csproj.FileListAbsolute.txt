@@ -1,0 +1,10 @@
+F:\iii\C#進階\POS_CS_Homework\POS_CS_Homework\bin\Debug\Homework004.exe.config
+F:\iii\C#進階\POS_CS_Homework\POS_CS_Homework\bin\Debug\Homework004.exe
+F:\iii\C#進階\POS_CS_Homework\POS_CS_Homework\bin\Debug\Homework004.pdb
+F:\iii\C#進階\POS_CS_Homework\POS_CS_Homework\obj\Debug\POS_CS_Homework.csprojAssemblyReference.cache
+F:\iii\C#進階\POS_CS_Homework\POS_CS_Homework\obj\Debug\POS_CS_Homework.Form1.resources
+F:\iii\C#進階\POS_CS_Homework\POS_CS_Homework\obj\Debug\Homework004.Properties.Resources.resources
+F:\iii\C#進階\POS_CS_Homework\POS_CS_Homework\obj\Debug\POS_CS_Homework.csproj.GenerateResource.cache
+F:\iii\C#進階\POS_CS_Homework\POS_CS_Homework\obj\Debug\POS_CS_Homework.csproj.CoreCompileInputs.cache
+F:\iii\C#進階\POS_CS_Homework\POS_CS_Homework\obj\Debug\Homework004.exe
+F:\iii\C#進階\POS_CS_Homework\POS_CS_Homework\obj\Debug\Homework004.pdb
